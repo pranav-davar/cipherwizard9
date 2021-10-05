@@ -12,6 +12,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
       - name: Pull in blogposts
-        uses: cipherwizard9/cipherwizard9@master
+        uses: cipherwizard9/cipherwizard9
         with:
           feed_list: "https://deciphermiddleware.blogspot.com/feeds/posts/default"

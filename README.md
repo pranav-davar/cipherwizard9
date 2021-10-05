@@ -27,7 +27,6 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact: ...
   -->
-
-
-<center><a href="https://twitter.com/pranavdavar9" ><img src="src/img/twitter-line.svg"/></a><a href="https://www.linkedin.com/in/pranavdavar/"><img src="src/img/linkedin-line.svg"/></a><a href="https://deciphermiddleware.blogspot.com/"><img src="src/img/share-box-line.svg"/></a></center>
+#### 📫 How to reach me
+<a href="https://twitter.com/pranavdavar9" ><img src="src/img/twitter-line.svg"/></a><a href="https://www.linkedin.com/in/pranavdavar/"><img src="src/img/linkedin-line.svg"/></a>
 
