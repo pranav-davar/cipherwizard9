@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout
       - name: Pull in blogposts
         uses: cipherwizard9/cipherwizard9@main
         with:
