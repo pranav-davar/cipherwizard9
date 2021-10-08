@@ -9,9 +9,7 @@ jobs:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v2
-      - name: Pull in blogposts
-        uses: cipherwizard9/cipherwizard9@main
+      - uses: actions/checkout@v2
+      - uses: cipherwizard9/cipherwizard9@main
         with:
           feed_list: "https://deciphermiddleware.blogspot.com/feeds/posts/default"
