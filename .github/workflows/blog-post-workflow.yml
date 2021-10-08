@@ -9,7 +9,6 @@ jobs:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: cipherwizard9/cipherwizard9@main
+      - uses: cipherwizard9/cipherwizard9@v2
         with:
           feed_list: "https://deciphermiddleware.blogspot.com/feeds/posts/default"
