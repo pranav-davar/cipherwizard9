@@ -15,17 +15,17 @@ My name is Pranav Davar and I am a middleware developer. I am from India and cur
 10. [Create Delimited String from XML Nodes and Vice Versa in SOA 12c](https://deciphermiddleware.blogspot.com/2020/12/create-delimited-string-or-xml-nodes.html)
 <details>
   <summary>More</summary>
-11. [Import and Export MDS artifacts in SOA 12c](https://deciphermiddleware.blogspot.com/2020/12/import-and-export-mds-artifacts-to-soa.html)
-12. [Read file inside BPEL using Xpath function](https://deciphermiddleware.blogspot.com/2020/11/read-file-inside-bpel-using-xpath.html)
-13. [Mock a REST Service using SOAPUI with JSON response](https://deciphermiddleware.blogspot.com/2020/10/mock-rest-service-using-soapui-with.html)
-14. [XML to String and String to XML conversion ](https://deciphermiddleware.blogspot.com/2020/09/xml-to-string-and-string-to-xml.html)
-15. [Remove Empty tags using XSLT](https://deciphermiddleware.blogspot.com/2020/09/remove-empty-tags-using-xslt.html)
-16. [Format String oraext:format-string](https://deciphermiddleware.blogspot.com/2020/09/format-string-oraextformat-string.html)
-17. [DateTime formatting using xp20:format-dateTime ()](https://deciphermiddleware.blogspot.com/2020/09/datetime-formatting-using-xp20format.html)
-    </details>
 
-<!--
-**cipherwizard9/cipherwizard9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+11.  [Import and Export MDS artifacts in SOA 12c](https://deciphermiddleware.blogspot.com/2020/12/import-and-export-mds-artifacts-to-soa.html)
+12.  [Read file inside BPEL using Xpath function](https://deciphermiddleware.blogspot.com/2020/11/read-file-inside-bpel-using-xpath.html)
+13.  [Mock a REST Service using SOAPUI with JSON response](https://deciphermiddleware.blogspot.com/2020/10/mock-rest-service-using-soapui-with.html)
+14.  [XML to String and String to XML conversion ](https://deciphermiddleware.blogspot.com/2020/09/xml-to-string-and-string-to-xml.html)
+15.  [Remove Empty tags using XSLT](https://deciphermiddleware.blogspot.com/2020/09/remove-empty-tags-using-xslt.html)
+16.  [Format String oraext:format-string](https://deciphermiddleware.blogspot.com/2020/09/format-string-oraextformat-string.html)
+17.  [DateTime formatting using xp20:format-dateTime ()](https://deciphermiddleware.blogspot.com/2020/09/datetime-formatting-using-xp20format.html)
+    </details>
+    <!--
+    **cipherwizard9/cipherwizard9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
