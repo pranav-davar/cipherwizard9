@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Pranav Davar and I am a middleware developer. I am from India and currently working in Infosys as Senior Associate Consultant.
+My name is Pranav Davar and I am a middleware developer. I am from India.
 
 ### :memo: Latest Blog Posts
 1. [Visualize the export of test Results in Postman](https://blog.deciphermiddleware.in/2021/10/visualize-export-of-test-results-in.html)
